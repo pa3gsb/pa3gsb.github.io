@@ -3,7 +3,7 @@
     <title>PA3GSB</title>
     <link href="https://pa3gsb.github.io/feed.xml" rel="self" />
     <link href="https://pa3gsb.github.io" />
-    <updated>2022-06-18T12:01:08+02:00</updated>
+    <updated>2026-10-24T16:49:33+02:00</updated>
     <author>
         <name>pa3gsb</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>pa3gsb</name>
         </author>
-        <link href="https://pa3gsb.github.io/radioberry-eer-experiments/"/>
-        <id>https://pa3gsb.github.io/radioberry-eer-experiments/</id>
+        <link href="https://pa3gsb.github.io/publications/radioberry-eer-experiments/"/>
+        <id>https://pa3gsb.github.io/publications/radioberry-eer-experiments/</id>
 
         <updated>2022-06-18T11:57:17+02:00</updated>
             <summary type="html">
@@ -25,57 +25,31 @@
             </summary>
         <content type="html">
             <![CDATA[
-                
-<p>Hereby some pictures showing the initial experiments.</p>
-
-
-
-<p>First QSO gives some positve feedback. </p>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/EER-setup-791x1024.jpg" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-2xl.jpg 1920w"></figure>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/eer-building-blocks-text-1024x768.jpeg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-xs.jpeg 640w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-sm.jpeg 768w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-md.jpeg 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-lg.jpeg 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-xl.jpeg 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-2xl.jpeg 1920w"><figcaption>Actual setup for first exeriments.</figcaption></figure>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/PWM-Envelope.png" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-xs.png 640w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-sm.png 768w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-md.png 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-lg.png 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-xl.png 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-2xl.png 1920w"><figcaption>PWM / Envelope (using RPI GPIO for test)</figcaption></figure>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/drain-and-gate-signals.png" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-xs.png 640w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-sm.png 768w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-md.png 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-lg.png 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-xl.png 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-2xl.png 1920w"><figcaption>Drain and gate drive signal.</figcaption></figure>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/eer-setup-psdr.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-2xl.jpg 1920w"><figcaption>Power SDR setup.</figcaption></figure>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/actual-phase-envelope.png" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-xs.png 640w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-sm.png 768w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-md.png 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-lg.png 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-xl.png 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-2xl.png 1920w"><figcaption>Actual output using double tone.</figcaption></figure>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/pwr_out-1024x768.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-2xl.jpg 1920w"><figcaption>There is power...</figcaption></figure>
-
-
-
+                <p>Hereby some pictures showing the initial experiments.</p>
+<p>First QSO gives some positve feedback.</p>
+<figure class="post__image"><img loading="lazy"  src="https://pa3gsb.github.io/media/posts/4/EER-setup-791x1024.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/EER-setup-791x1024-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/eer-building-blocks-text-1024x768.jpeg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-xs.jpeg 640w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-sm.jpeg 768w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-md.jpeg 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-lg.jpeg 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-xl.jpeg 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-building-blocks-text-1024x768-2xl.jpeg 1920w">
+<figcaption>Actual setup for first exeriments.</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/PWM-Envelope.png" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-xs.png 640w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-sm.png 768w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-md.png 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-lg.png 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-xl.png 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/PWM-Envelope-2xl.png 1920w">
+<figcaption>PWM / Envelope (using RPI GPIO for test)</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/drain-and-gate-signals.png" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-xs.png 640w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-sm.png 768w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-md.png 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-lg.png 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-xl.png 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/drain-and-gate-signals-2xl.png 1920w">
+<figcaption>Drain and gate drive signal.</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/eer-setup-psdr.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/eer-setup-psdr-2xl.jpg 1920w">
+<figcaption>Power SDR setup.</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/actual-phase-envelope.png" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-xs.png 640w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-sm.png 768w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-md.png 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-lg.png 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-xl.png 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/actual-phase-envelope-2xl.png 1920w">
+<figcaption>Actual output using double tone.</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/4/pwr_out-1024x768.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/4/responsive/pwr_out-1024x768-2xl.jpg 1920w">
+<figcaption>There is power...</figcaption>
+</figure>
 <p>Hope the pictures give some idea.</p>
-
-
-
-<p></p>
-
-
-
+<p> </p>
 <p>73 Johan</p>
-
-
-
 <p>PA3GSB</p>
-
             ]]>
         </content>
     </entry>
@@ -84,8 +58,8 @@
         <author>
             <name>pa3gsb</name>
         </author>
-        <link href="https://pa3gsb.github.io/radioberry-juice-part-2/"/>
-        <id>https://pa3gsb.github.io/radioberry-juice-part-2/</id>
+        <link href="https://pa3gsb.github.io/publications/radioberry-juice-part-2/"/>
+        <id>https://pa3gsb.github.io/publications/radioberry-juice-part-2/</id>
 
         <updated>2021-07-22T18:41:28+02:00</updated>
             <summary type="html">
@@ -95,211 +69,72 @@
             </summary>
         <content type="html">
             <![CDATA[
-                
-<p>Radioberry juice journey continues….</p>
-
-
-
+                <p>Radioberry juice journey continues….</p>
 <p>There was still a road ahead for the development of the juice board.</p>
-
-
-
 <h2>I2C supported by radioberry gateware</h2>
-
-
-
 <p>One of the things to discover was the i2c connection.</p>
-
-
-
 <p>As reported in the previous post the juice board using the FT-245 protocol is<br>not able to use the i2c MPPSE mode of the FT2232 FTDI chip. To make use of bus for controlling the radioberry preamp the i2c logic must be build into the gateware.</p>
-
-
-
 <p>During the development of the preamp i added an additional parallel i2c bus.<br>This i2c bus can now be used for the i2c controlled from the FPGA</p>
-
-
-
 <p><a href="https://github.com/pa3gsb/Radioberry-2.x/wiki/Radioberry-In-Output">https://github.com/pa3gsb/Radioberry-2.x/wiki/Radioberry-In-Output</a></p>
-
-
-
 <p>(pin 15 and pin 16 of the radioberry io connector)</p>
-
-
-
 <p>The HL-2 hardware uses 3 i2c busses:</p>
-
-
-
 <pre class="wp-block-preformatted">- Slow 4 channel ADC
 - Programmable clock generator (not used in radioberry)
 - Digital Pot and  N2ADR filter selection</pre>
-
-
-
 <p>All controlled by the gateware.</p>
-
-
-
 <p>Radioberry uses one i2c bus containinng the following devices:</p>
-
-
-
-<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group">
+<div class="wp-block-group__inner-container">
 <pre class="wp-block-preformatted">- Slow 4 channel ADC
 - Digital Pot
 
 both i2c devices present at preamp board
 
 - N2ADR filter selection</pre>
-</div></div>
-
-
-
+</div>
+</div>
 <p>The slow ADC is used to measure the bias current, temperature of the PA finals, FWD and REV voltages.<br>Setting up the BIAS of the finals is done by the digital pot; the setup is kept in the EEPROM of the digital pot.</p>
-
-
-
 <p>The gateware is modified to make this possible.</p>
-
-
-
 <p>In the change also the RQST functionality; which Steve defined as an addtion to the original openHPSDR protocol-1, is implemented.</p>
-
-
-
 <p>All described in the protocol:</p>
-
-
-
 <p><a href=" https://github.com/softerhardware/Hermes-Lite2/wiki/Protocol "> https://github.com/softerhardware/Hermes-Lite2/wiki/Protocol </a></p>
-
-
-
 <p>for the HL-2.</p>
-
-
-
 <p>The gatware must responds within a certain time… quisk and wireshark were very helpfull in testing.</p>
-
-
-
 <p>It took some development effort (at least for me) to get it working properly, without quisk complaining; the quisk code was helping in the process to understand how it all should work!</p>
-
-
-
 <p>The protection of the PA finals is also included in the gateware using the juice board. If the temperature is too high, following the same temperature as defined for the HL-2, the PA is shutdown.</p>
-
-
-
 <p>Also implememted the PWM for a fan; but not yet assigned the pwm to a FPGA output pin!</p>
-
-
-
 <h2>Bandscope</h2>
-
-
-
 <p>Also the bandscope is working. Useable from Quisk and linHPSDR.</p>
-
-
-
-<p></p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/3/bandscope-1024x344.jpg" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-2xl.jpg 1920w"></figure>
-
-
-
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pa3gsb.github.io/media/posts/3/bandscope-1024x344.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/3/responsive/bandscope-1024x344-2xl.jpg 1920w"></figure>
 <h2>Setup configuration</h2>
-
-
-
 <p>The following overview shows what is possble with the juice board.</p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/3/radioberry-juice-config.jpg" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-2xl.jpg 1920w"></figure>
-
-
-
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pa3gsb.github.io/media/posts/3/radioberry-juice-config.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/3/responsive/radioberry-juice-config-2xl.jpg 1920w"></figure>
 <p>Nice to see that it is possible to use different machines and platforms.</p>
-
-
-
 <p>The firmware provides in:</p>
-
-
-
-<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group">
+<div class="wp-block-group__inner-container">
 <pre class="wp-block-preformatted">- loading gateware into radioberry FPGA
 - openHPSDR protocol-1 (Discovery, IQ streaming and control)
 
 When the firmware is running on a RPI or other SBC the GPIO can be used.</pre>
-</div></div>
-
-
-
+</div>
+</div>
 <h2>My Setup</h2>
-
-
-
 <p>I took some time searching for a computer for running the radioberry together with the juice board.</p>
-
-
-
 <p>Decided to go for a Refurbished mini pc</p>
-
-
-
 <p>ThinkCentre M900</p>
-
-
-
 <p>Processor:Intel Core i5<br>Processor type:i5-6500T CPU @ 2.50GHz<br>Internal 8GB</p>
-
-
-
 <p>Dimensions (W x D x H)<br>(inches) : 1.36" x 7.20" x 7.05"<br>(mm) : 34.5 x 182.9 x 179</p>
-
-
-
 <p>6* USB 3.0</p>
-
-
-
 <p>Audio in and out.</p>
-
-
-
 <p>Making the computer dual boot; using W10 and Ubuntu linux.</p>
-
-
-
 <p>Also a big advantage is to make use of a large computer screen; also a screen useable for normal computer work no need of additional (small) screens.</p>
-
-
-
 <p>For controlling the radio i bought an MIDI controller a behringer cmd pl-1; active support to use with pihpsdr and other software!</p>
-
-
-
-<p></p>
-
-
-
+<p> </p>
 <p>Have fun</p>
-
-
-
 <p>73 Johan</p>
-
-
-
 <p>PA3GSB</p>
-
             ]]>
         </content>
     </entry>
@@ -308,8 +143,8 @@ When the firmware is running on a RPI or other SBC the GPIO can be used.</pre>
         <author>
             <name>pa3gsb</name>
         </author>
-        <link href="https://pa3gsb.github.io/radioberry-juice/"/>
-        <id>https://pa3gsb.github.io/radioberry-juice/</id>
+        <link href="https://pa3gsb.github.io/publications/radioberry-juice/"/>
+        <id>https://pa3gsb.github.io/publications/radioberry-juice/</id>
 
         <updated>2021-05-31T16:27:21+02:00</updated>
             <summary type="html">
@@ -319,170 +154,62 @@ When the firmware is running on a RPI or other SBC the GPIO can be used.</pre>
             </summary>
         <content type="html">
             <![CDATA[
-                
-<p>A development journey …</p>
-
-
-
+                <p>A development journey …</p>
 <p>Wishes for the radioberry to improve:</p>
-
-
-
-<ul><li>IQ bandwith increase</li><li>CPU utilization reduction</li><li>Supporting multiple platforms</li><li>Different computer boards</li><li>Easy setup</li></ul>
-
-
-
+<ul>
+<li>IQ bandwith increase</li>
+<li>CPU utilization reduction</li>
+<li>Supporting multiple platforms</li>
+<li>Different computer boards</li>
+<li>Easy setup</li>
+</ul>
 <p>But keeping :</p>
-
-
-
 <p>The radioberry with the high coupling to the RPI must be kept; i want to keep the charm of this radio setup.</p>
-
-
-
 <p>Some time ago i tried to add an ethernet module; it worked but the RPI was still needed.</p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/ethernet-rb-1-768x1024.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-2xl.jpg 1920w"><figcaption>Radioberry using ethernet module</figcaption></figure>
-
-
-
+<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/ethernet-rb-1-768x1024.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/ethernet-rb-1-768x1024-2xl.jpg 1920w">
+<figcaption>Radioberry using ethernet module</figcaption>
+</figure>
 <p>In the search for all these improvemets i made a proposal for an alternative setup.</p>
-
-
-
 <p>The proposal:</p>
-
-
-
 <p>I like to introduce a Radioberry FT2232H extension board; renamed into the radioberry juice board.</p>
-
-
-
 <p>This radioberry can be plugged in to the board (like you connect a RPI).</p>
-
-
-
 <p>This board contains the FTDI FT2232 chip and implements an USB interface.</p>
-
-
-
 <p>The extensionboard communicates with any SBC/PC via USB, making it possible to connect better performing SBC or a PC.</p>
-
-
-
 <p>To allow USB communications between a PC and the FPGA,<br>the extension board uses an FT2232H USB device to create a communications bridge between<br>the PC USB interface and the FPGA.</p>
-
-
-
 <p>This communications bridge splits into two channels: a programming interface<br>channel and a parallel 245 FIFO communications interface channel.</p>
-
-
-
 <p>The programming interface uses channel B of the FT2232H to configure<br>the FPGA using the Intell Cyclone Passive Serial interface.</p>
-
-
-
 <p>The 245 communications interface uses channel A of the FT2232H to transfer data,<br>either synchronously or asynchronously, over the 245 FIFO interface to and from the FPGA.</p>
-
-
-
 <p>The extensionboard utilises the functionality of the Multi-Protocol Synchronous Serial Engine (MPSSE)<br>architecture in channel B of the FT2232H chip to adapt to the Intell Cyclone Passive Serial interface.</p>
-
-
-
 <p>MPSSE is an FTDI function that allows different synchronous protocols to be configured on any available data channel.<br>Once the FPGA has been configured, channel B of FT2232H can be reconfigured, using MPSSE, to operate as general purpose IO pins.</p>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/radioberry-juice.png" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-xs.png 640w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-sm.png 768w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-md.png 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-lg.png 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-xl.png 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-2xl.png 1920w"><figcaption>Initial idea of extension board... later called radioberry juice </figcaption></figure>
-
-
-
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/radioberry-juice.png" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-xs.png 640w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-sm.png 768w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-md.png 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-lg.png 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-xl.png 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/radioberry-juice-2xl.png 1920w">
+<figcaption>Initial idea of extension board... later called radioberry juice</figcaption>
+</figure>
 <p>The intention was to make an IQ server controlled by a SPI interface!</p>
-
-
-
 <p>During development the IQ stream and SPI control as individual functions were working fine.<br>In the radio setting where both functions should work together i got a problem…..took me some time to figure this out!</p>
-
-
-
 <p>Sometimes it is better to read the datasheet than just doing….</p>
-
-
-
 <p>Quoted from the datasheet;</p>
-
-
-
 <p>'In this mode (FT245 Style Synchronous FIFO Interface) the ‘B’ channel is not available as all resources have been switched onto channel A.'</p>
-
-
-
 <p>So no SPI / I2C; no control using the FT2232H chip.</p>
-
-
-
 <p>So back to the drawing board….</p>
-
-
-
 <p>Can we solve this? and make it even beter as the initial proposed solution?</p>
-
-
-
 <p>One big drawback in the previous solution was that i had a shortage of pins… so the<br>data in the synchronous mode was based on 4 data lines…. already thinking of a hardware upgrade of the<br>radioberry…. but that is not longer required in the next iteration of the design.</p>
-
-
-
 <p>The solution is simple… looking to the HL-2 there is also 1 data channel for getting the iq datat and<br>control data from and to the SDR program….</p>
-
-
-
 <p>i will follow the same principal.</p>
-
-
-
 <p>In the gateware i have only to reimplement the usopenhpsdr1.v and dsopenhpsdr1.v and making<br>a module for the physcial interface.</p>
-
-
-
 <p>Making the phy interface in verilog… i had some problems to solve…</p>
-
-
-
 <p>After sending 510 bytes i lost 2 bytes! Took me sometime to figure this out! Seems that the FTDI is using 2 bytes<br>for controlling the USB bulk stream (which is 512 bytes);</p>
-
-
-
 <p>So i learned when checking for speed you also must look to data integrity…</p>
-
-
-
 <p>The advantage is that the gateware is now implementing the protocol 1 packets… which can be easliy<br>placed, using one line c code in the ethernet package :</p>
-
-
-
 <p>………….<br>read_stream(hpsdrdata); // fetching 1032 bytes of ethernet packet.<br>………….</p>
-
-
-
 <p>in stead of building the p-1 packet in the c code.</p>
-
-
-
 <p>example from the firmware using the radioberry driver running at a RPI:</p>
-
-
-
-<pre class="wp-block-code" style="font-size:10px"><code>void fillPacketToSend() {
+<pre class="wp-block-code" style="font-size: 10px;"><code>void fillPacketToSend() {
 	memset(hpsdrdata,0,1032);
 	memcpy(hpsdrdata, header_hpsdrdata, 4);
-	hpsdrdata&#91;4] = ((last_sequence_number &gt;&gt; 24) &amp; 0xFF);
-	hpsdrdata&#91;5] = ((last_sequence_number &gt;&gt; 16) &amp; 0xFF);
-	hpsdrdata&#91;6] = ((last_sequence_number &gt;&gt; 8) &amp; 0xFF);
-	hpsdrdata&#91;7] = (last_sequence_number &amp; 0xFF);
+	hpsdrdata[4] = ((last_sequence_number &gt;&gt; 24) &amp; 0xFF);
+	hpsdrdata[5] = ((last_sequence_number &gt;&gt; 16) &amp; 0xFF);
+	hpsdrdata[6] = ((last_sequence_number &gt;&gt; 8) &amp; 0xFF);
+	hpsdrdata[7] = (last_sequence_number &amp; 0xFF);
 	last_sequence_number++;
 	memcpy(hpsdrdata + 8, sync_hpsdrdata, 8);
 	memcpy(hpsdrdata + 520, sync_hpsdrdata, 8);
@@ -513,135 +240,75 @@ When the firmware is running on a RPI or other SBC the GPIO can be used.</pre>
 
 		if ( last_sequence_number % 2 == 0) {
 			// if i2c_measure_module_active; the temperature of module is used, otherwise the RPI temp.	
-			hpsdrdata&#91;11 + coarse_pointer] = 0x08 | (rb_control &amp; 0x07);
+			hpsdrdata[11 + coarse_pointer] = 0x08 | (rb_control &amp; 0x07);
 			if (i2c_measure_module_active) {
-				hpsdrdata&#91;12 + coarse_pointer] = ((pa_temp &gt;&gt; 8) &amp; 0xFF); 
-				hpsdrdata&#91;13 + coarse_pointer] = (pa_temp &amp; 0xFF); 
+				hpsdrdata[12 + coarse_pointer] = ((pa_temp &gt;&gt; 8) &amp; 0xFF); 
+				hpsdrdata[13 + coarse_pointer] = (pa_temp &amp; 0xFF); 
 			} else {
-				hpsdrdata&#91;12 + coarse_pointer] = ((sys_temp &gt;&gt; 8) &amp; 0xFF);
-				hpsdrdata&#91;13 + coarse_pointer] = (sys_temp &amp; 0xFF);
+				hpsdrdata[12 + coarse_pointer] = ((sys_temp &gt;&gt; 8) &amp; 0xFF);
+				hpsdrdata[13 + coarse_pointer] = (sys_temp &amp; 0xFF);
 			}
 		} else {
-			hpsdrdata&#91;11 + coarse_pointer] = 0x10 | (rb_control &amp; 0x07); 
-			hpsdrdata&#91;14 + coarse_pointer] = ((pa_current &gt;&gt; 8) &amp; 0xFF); 
-			hpsdrdata&#91;15 + coarse_pointer] = (pa_current &amp; 0xFF); 
+			hpsdrdata[11 + coarse_pointer] = 0x10 | (rb_control &amp; 0x07); 
+			hpsdrdata[14 + coarse_pointer] = ((pa_current &gt;&gt; 8) &amp; 0xFF); 
+			hpsdrdata[15 + coarse_pointer] = (pa_current &amp; 0xFF); 
 		}
 	}
 }
 </code></pre>
-
-
-
 <p>Making the firmware very small around 300 lines of code.</p>
-
-
-
 <p>Here we are getting all the ethernet behaviour for 'free' no difficult coding in the FPGA.</p>
-
-
-
 <p>What is done:</p>
-
-
-
-<ul><li>inital version of firmware running at windows and linux.</li><li>initial version of gateware for 6 RX and 1 TX</li></ul>
-
-
-
+<ul>
+<li>inital version of firmware running at windows and linux.</li>
+<li>initial version of gateware for 6 RX and 1 TX</li>
+</ul>
 <p>Todo:</p>
-
-
-
-<ul><li>no i2c support yet…for the radioberry preamp board</li><li>no i2c support for radioberry extensions<ul><li>when running on a SBC it could be possible to add i2c support to the firmware.</li></ul></li><li>adding i2c support to the gateware</li><li>adding bandscope</li></ul>
-
-
-
+<ul>
+<li>no i2c support yet…for the radioberry preamp board</li>
+<li>no i2c support for radioberry extensions
+<ul>
+<li>when running on a SBC it could be possible to add i2c support to the firmware.</li>
+</ul>
+</li>
+<li>adding i2c support to the gateware</li>
+<li>adding bandscope</li>
+</ul>
 <p>What to expect about perfomance:</p>
-
-
-
 <p>Based on a remark by Steve:</p>
-
-
-
 <p>Bandwidth usage can be estimated.<br>Each IQ sample is 24 bits of I and 24 bits of Q data for 48 bits total.</p>
-
-
-
 <p>If you realize 100Mbs, then you have 100e6/48 = 2.083 MHz total IQ bandwidth.<br>This is just over 5 384kHz receivers or 10 192kHz receivers.</p>
-
-
-
 <p>I think you will run into RPi4 limitations processing and demodulating this much data before hitting bandwidth limitations</p>
-
-
-
 <p>I have been testing the setup on a W10 latptop running 6 rx slices with a 384KHz sampling rate:</p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/6rx-384-1024x526.jpg" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-2xl.jpg 1920w"></figure>
-
-
-
-<p></p>
-
-
-
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pa3gsb.github.io/media/posts/2/6rx-384-1024x526.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/6rx-384-1024x526-2xl.jpg 1920w"></figure>
+<p> </p>
 <p>The juice board brings indeed some juice to the radioberry!</p>
-
-
-
 <p>JUICE BOARD</p>
-
-
-
 <p>The change of plans… makes it necessary to make a new juice board design.</p>
-
-
-
 <p>Requirements for the board:</p>
-
-
-
-<ul><li>12 V input iso 5 V making supply mistakes (CU2ED Jacinto)</li><li>adding a rpi pico or teensy uC ?<ul><li>i2c / spi support?</li></ul></li></ul>
-
-
-
+<ul>
+<li>12 V input iso 5 V making supply mistakes (CU2ED Jacinto)</li>
+<li>adding a rpi pico or teensy uC ?
+<ul>
+<li>i2c / spi support?</li>
+</ul>
+</li>
+</ul>
 <p>O yes a last remark:</p>
-
-
-
 <p>It is also well possible to program in python… there is a nice library available for the FTDI chips.</p>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/IMG_4055-rotated.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-2xl.jpg 1920w"><figcaption>Radioberry working together with juice board</figcaption></figure>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/IMG_4058-rotated.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-2xl.jpg 1920w"><figcaption>Juice board</figcaption></figure>
-
-
-
-<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/IMG_4057-rotated.jpg" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-2xl.jpg 1920w"></figure>
-
-
-
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/IMG_4055-rotated.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4055-rotated-2xl.jpg 1920w">
+<figcaption>Radioberry working together with juice board</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/2/IMG_4058-rotated.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4058-rotated-2xl.jpg 1920w">
+<figcaption>Juice board</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy"  src="https://pa3gsb.github.io/media/posts/2/IMG_4057-rotated.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/2/responsive/IMG_4057-rotated-2xl.jpg 1920w"></figure>
 <p>No deadlines, all done in leisure time!</p>
-
-
-
 <p>As always have fun.</p>
-
-
-
 <p>73 Johan<br>PA3GSB</p>
-
-
-
-<ul><li>Proposal : https://groups.google.com/g/radioberry/c/yze9Gq0Jgf8</li></ul>
-
+<ul>
+<li>Proposal : https://groups.google.com/g/radioberry/c/yze9Gq0Jgf8</li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -650,8 +317,8 @@ When the firmware is running on a RPI or other SBC the GPIO can be used.</pre>
         <author>
             <name>pa3gsb</name>
         </author>
-        <link href="https://pa3gsb.github.io/radioberry-tx-amplifiers/"/>
-        <id>https://pa3gsb.github.io/radioberry-tx-amplifiers/</id>
+        <link href="https://pa3gsb.github.io/publications/radioberry-tx-amplifiers/"/>
+        <id>https://pa3gsb.github.io/publications/radioberry-tx-amplifiers/</id>
 
         <updated>2021-03-23T17:07:22+01:00</updated>
             <summary type="html">
@@ -661,173 +328,59 @@ When the firmware is running on a RPI or other SBC the GPIO can be used.</pre>
             </summary>
         <content type="html">
             <![CDATA[
-                
-<p class="has-large-font-size">20W Amplifier</p>
-
-
-
+                <p class="has-large-font-size">20W Amplifier</p>
 <p>From Deepu, VU3TLD i received a bare PCB board, he designed a PCB based on the developement done by G6ALU.</p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_3951-768x1024.jpg" alt="" width="472" height="629" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-2xl.jpg 1920w"><figcaption>20W PCB design by Deepu VU3TLD</figcaption></figure>
-
-
-
+<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_3951-768x1024.jpg" alt="" width="472" height="629" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_3951-768x1024-2xl.jpg 1920w">
+<figcaption>20W PCB design by Deepu VU3TLD</figcaption>
+</figure>
 <p>It took some time to collect all the required components. I had a great time building this amplifier.<br>Winding the toroids and assembling the 1206 SMD components, these 1206 SMD are large…when you are used to 0603 sizes.</p>
-
-
-
 <p>Also doing some mechanical work like tapping the holes for mounting the HF devices.</p>
-
-
-
 <p>A big advantage of these devices used here are in a TO220 package which differ, from switching devices,<br>in that the tab is connected to the source electrode, so in this design are grounded by the PCB and heat sink.<br>No insulating washers are used when bolting the devicesdown to the heat sink and PCB.</p>
-
-
-
 <p>After assembly i attached a 50 ohm resistor at the amp in connecor; setting the bias was going smooth.<br>But when removing the 50 ohm resistor the amplifier started to oscillate… but looking back in some direct mails<br>from Deepu i could have found the warning; i had to ground the HF-in and HF-out connector.</p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_4007-1024x768.jpg" alt="" width="545" height="408" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-2xl.jpg 1920w"><figcaption>Assembled 20W Power Amplifier.</figcaption></figure>
-
-
-
+<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_4007-1024x768.jpg" alt="" width="545" height="408" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4007-1024x768-2xl.jpg 1920w">
+<figcaption>Assembled 20W Power Amplifier.</figcaption>
+</figure>
 <p>Detailed information can be found at:</p>
-
-
-
 <p><a href="https://github.com/pa3gsb/Radioberry-2.x-extensions/tree/master/Radioberry-PA-20W">https://github.com/pa3gsb/Radioberry-2.x-extensions/tree/master/Radioberry-PA-20W</a></p>
-
-
-
-<p></p>
-
-
-
+<p> </p>
 <p class="has-large-font-size">10W HF linear</p>
-
-
-
 <p>This kit was orderd from QRP - Labs</p>
-
-
-
 <p>Nice to built a kit after long time…. the documentation provided is very good.</p>
-
-
-
-<p></p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_4003-1024x768.jpg" alt="" width="544" height="408" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-2xl.jpg 1920w"><figcaption>10W amplifier</figcaption></figure>
-
-
-
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_4003-1024x768.jpg" alt="" width="544" height="408" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4003-1024x768-2xl.jpg 1920w">
+<figcaption>10W amplifier</figcaption>
+</figure>
 <p>The amplifier is working good.</p>
-
-
-
 <p><a href="https://www.qrp-labs.com/linear.html">https://www.qrp-labs.com/linear.html</a></p>
-
-
-
 <p>Besides the amplifier i decided to buy and built the LPF from QRP - Labs.</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/LPF.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/LPF-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-2xl.jpg 1920w"><figcaption>LPF </figcaption></figure>
-
-
-
+<p> </p>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/LPF.jpg" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/LPF-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/LPF-2xl.jpg 1920w">
+<figcaption>LPF</figcaption>
+</figure>
 <p><a href="https://www.qrp-labs.com/lpfkit.html">https://www.qrp-labs.com/lpfkit.html</a></p>
-
-
-
 <p>combining these filters with the Ultimate relay-switched LPF kit from QRP - Labs.</p>
-
-
-
 <p><a href="https://www.qrp-labs.com/ultimatelpf">https://www.qrp-labs.com/ultimatelpf</a></p>
-
-
-
 <p>For switching the relays iam using a PCA9555 board; an IO extender controlled via I2C.</p>
-
-
-
 <p>This controller is supported by radioberry firmware.</p>
-
-
-
-<p></p>
-
-
-
+<p> </p>
 <p class="has-large-font-size">5W Radioberry preamp board.</p>
-
-
-
 <p>The preamp board can be clicked on top of the radioberry.</p>
-
-
-
-<p></p>
-
-
-
-<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_4004-1024x768.jpg" alt="" width="578" height="432" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-2xl.jpg 1920w"><figcaption>Radioberry preamp board</figcaption></figure>
-
-
-
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_4004-1024x768.jpg" alt="" width="578" height="432" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4004-1024x768-2xl.jpg 1920w">
+<figcaption>Radioberry preamp board</figcaption>
+</figure>
 <p>This results in a nice setup with a long time ago built 100W amplifier</p>
-
-
-
 <p><a href="https://github.com/pa3gsb/Radioberry-2.x/wiki/Radioberry-preamp">https://github.com/pa3gsb/Radioberry-2.x/wiki/Radioberry-preamp</a></p>
-
-
-
-<p></p>
-
-
-
+<p> </p>
 <p>Iam using this setup with a amplifier i built some years ago, the amplifier does contain the LPF filters.</p>
-
-
-
-<p></p>
-
-
-
-<figure class="post__image is-resized"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_4010-1024x768.jpg" alt="" width="529" height="396" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-2xl.jpg 1920w"><figcaption>100W PA </figcaption></figure>
-
-
-
-<p></p>
-
-
-
+<p> </p>
+<figure class="post__image is-resized"><img loading="lazy" src="https://pa3gsb.github.io/media/posts/1/IMG_4010-1024x768.jpg" alt="" width="529" height="396" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-xs.jpg 640w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-sm.jpg 768w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-md.jpg 1024w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-lg.jpg 1366w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-xl.jpg 1600w ,https://pa3gsb.github.io/media/posts/1/responsive/IMG_4010-1024x768-2xl.jpg 1920w">
+<figcaption>100W PA</figcaption>
+</figure>
 <p>Have fun</p>
-
-
-
 <p>73 Johan</p>
-
-
-
 <p>PA3GSB</p>
-
             ]]>
         </content>
     </entry>
